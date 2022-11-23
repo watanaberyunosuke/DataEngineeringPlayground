@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/DataEngineeringPlayground.iml" filepath="$PROJECT_DIR$/.idea/DataEngineeringPlayground.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../Monash Master Related/MIT/Y2S2/Data Process for Big Data/FIT5202CodeRepo/.idea/FIT5202CodeRepo.iml" filepath="$PROJECT_DIR$/../../Monash Master Related/MIT/Y2S2/Data Process for Big Data/FIT5202CodeRepo/.idea/FIT5202CodeRepo.iml" />
+    </modules>
+  </component>
+</project>
