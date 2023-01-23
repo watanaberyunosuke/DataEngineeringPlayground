@@ -3,7 +3,9 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/DataEngineeringPlayground.iml" filepath="$PROJECT_DIR$/.idea/DataEngineeringPlayground.iml" />
-      <module fileurl="file://$PROJECT_DIR$/../../Monash Master Related/MIT/Y2S2/Data Process for Big Data/FIT5202CodeRepo/.idea/FIT5202CodeRepo.iml" filepath="$PROJECT_DIR$/../../Monash Master Related/MIT/Y2S2/Data Process for Big Data/FIT5202CodeRepo/.idea/FIT5202CodeRepo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../UdemyDataEngineering/UdemyDataEngineering/.idea/UdemyDataEngineering.iml" filepath="$PROJECT_DIR$/../UdemyDataEngineering/UdemyDataEngineering/.idea/UdemyDataEngineering.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../MysteriousSoftware/Code/AIPlayground/AIPlayground/.idea/dsProject.iml" filepath="$PROJECT_DIR$/../../MysteriousSoftware/Code/AIPlayground/AIPlayground/.idea/dsProject.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../MysteriousSoftware/Code/AIPlayground/.idea/openAI.iml" filepath="$PROJECT_DIR$/../../MysteriousSoftware/Code/AIPlayground/.idea/openAI.iml" />
     </modules>
   </component>
 </project>

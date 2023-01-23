@@ -2,8 +2,9 @@
 <module type="PYTHON_MODULE" version="4">
   <component name="NewModuleRootManager">
     <content url="file://$MODULE_DIR$" />
-    <orderEntry type="jdk" jdkName="Python 3.9 (DataEngineeringPlayground)" jdkType="Python SDK" />
     <orderEntry type="sourceFolder" forTests="false" />
-    <orderEntry type="module" module-name="FIT5202CodeRepo" />
+    <orderEntry type="module" module-name="UdemyDataEngineering" />
+    <orderEntry type="module" module-name="dsProject" />
+    <orderEntry type="module" module-name="openAI" />
   </component>
 </module>
