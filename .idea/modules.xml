@@ -2,10 +2,10 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/DataEngineeringPlayground.iml" filepath="$PROJECT_DIR$/.idea/DataEngineeringPlayground.iml" />
-      <module fileurl="file://$PROJECT_DIR$/../UdemyDataEngineering/UdemyDataEngineering/.idea/UdemyDataEngineering.iml" filepath="$PROJECT_DIR$/../UdemyDataEngineering/UdemyDataEngineering/.idea/UdemyDataEngineering.iml" />
-      <module fileurl="file://$PROJECT_DIR$/../../MysteriousSoftware/Code/AIPlayground/AIPlayground/.idea/dsProject.iml" filepath="$PROJECT_DIR$/../../MysteriousSoftware/Code/AIPlayground/AIPlayground/.idea/dsProject.iml" />
-      <module fileurl="file://$PROJECT_DIR$/../../MysteriousSoftware/Code/AIPlayground/.idea/openAI.iml" filepath="$PROJECT_DIR$/../../MysteriousSoftware/Code/AIPlayground/.idea/openAI.iml" />
+      <module fileurl="file://$PROJECT_DIR$/data-analysis/.idea/data-analysis.iml" filepath="$PROJECT_DIR$/data-analysis/.idea/data-analysis.iml" />
+      <module fileurl="file://$PROJECT_DIR$/pyflink-getting-started/.idea/pyflink-getting-started.iml" filepath="$PROJECT_DIR$/pyflink-getting-started/.idea/pyflink-getting-started.iml" />
+      <module fileurl="file://$PROJECT_DIR$/rain-prediction/.idea/rain-prediction.iml" filepath="$PROJECT_DIR$/rain-prediction/.idea/rain-prediction.iml" />
+      <module fileurl="file://$PROJECT_DIR$/scala-flink/.idea/scala-flink.iml" filepath="$PROJECT_DIR$/scala-flink/.idea/scala-flink.iml" />
     </modules>
   </component>
 </project>
