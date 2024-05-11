@@ -1,0 +1,8 @@
+version: 1
+
+sources:
+  - name: snowflake-landing-health-expense
+    database: landing
+    schema: upload
+    tables:
+      - name: aus_health_expense
