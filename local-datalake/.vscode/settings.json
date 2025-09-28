@@ -1,0 +1,10 @@
+{
+    "sonarlint.connectedMode.project": {
+        "connectionId": "watanaberyunosuke",
+        "projectKey": "watanaberyunosuke_DataEngineeringPlayground"
+    },
+    "sqlfluff.experimental.format.executeInTerminal": true,
+    "dbt.dbtIntegration": "core",
+    "dbt.disableDepthsCalculation": false,
+    "dbt.dbtPythonPathOverride": "/Users/harrywatson/Dropbox/Coding/DataEngineeringPlayground/local-datalake/venv/bin/dbt"
+}
