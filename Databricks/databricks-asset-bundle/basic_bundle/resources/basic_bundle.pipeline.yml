@@ -1,0 +1,14 @@
+# The main pipeline for basic_bundle
+resources:
+  pipelines:
+    basic_bundle_pipeline:
+      name: basic_bundle_pipeline
+      catalog: aws_free_workspace
+      schema: basic_bundle_${bundle.target}
+      serverless: true
+      libraries:
+        - notebook:
+            path: ../src/pipeline.ipynb
+
+      configuration:
+        bundle.sourcePath: ${workspace.file_path}/src
