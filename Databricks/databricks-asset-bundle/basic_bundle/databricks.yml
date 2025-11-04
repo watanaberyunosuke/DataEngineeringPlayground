@@ -22,14 +22,14 @@ targets:
     mode: development
     default: true
     workspace:
-      host: https://dbc-d130f595-d6bd.cloud.databricks.com
+      host: https://dbc-87db2afb-d1b1.cloud.databricks.com
 
   prod:
     mode: production
     workspace:
-      host: https://dbc-d130f595-d6bd.cloud.databricks.com
+      host: https://dbc-87db2afb-d1b1.cloud.databricks.com
       # We explicitly deploy to /Workspace/Users/harrybwatson@protonmail.com to make sure we only have a single copy.
-      root_path: /Workspace/Users/harrybwatson@protonmail.com/.bundle/${bundle.name}/${bundle.target}
+      root_path: /Workspace/Users/harrybwatson@protonmail.com/${bundle.name}/${bundle.target}
     permissions:
       - user_name: harrybwatson@protonmail.com
         level: CAN_MANAGE
