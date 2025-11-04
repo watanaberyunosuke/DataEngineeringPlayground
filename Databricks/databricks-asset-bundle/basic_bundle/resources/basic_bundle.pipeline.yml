@@ -3,7 +3,7 @@ resources:
   pipelines:
     basic_bundle_pipeline:
       name: basic_bundle_pipeline
-      catalog: aws_free_workspace
+      catalog: workspace
       schema: basic_bundle_${bundle.target}
       serverless: true
       libraries:
