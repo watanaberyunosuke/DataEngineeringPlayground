@@ -280,8 +280,11 @@ pyrightconfig.json
 .history
 .ionide
 
-# End of https://www.toptal.com/developers/gitignore/api/jetbrains+all,python,visualstudiocode/
+# End of https://www.toptal.com/developers/gitignore/api/jetbrains+all,python,visualstudiocode
 
-# User defined
-predict-rain-tomorrow-in-australia-acc-93.ipynb
-*.csv
+# User Defined
+
+*/.env
+*.parquet
+*.db
+sample_data/*
