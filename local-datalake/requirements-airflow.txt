@@ -1,1 +1,1 @@
-apache-airflow[celery]==3.2.0
+apache-airflow[celery]==3.2.1rc1
